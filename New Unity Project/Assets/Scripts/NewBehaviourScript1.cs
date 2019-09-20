@@ -5,14 +5,14 @@ using UnityEngine;
 public class NewBehaviourScript1 : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
+        //dfdfsadffadfad
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        //adfafadsgadgagd
     }
 }
